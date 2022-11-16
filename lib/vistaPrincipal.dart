@@ -100,8 +100,8 @@ class _ProyectoS12 extends State<ProyectoS12> {
                     decoration: const InputDecoration(labelText: 'DNI'),
                     validator: ((value) {
                       return value!.isEmpty ||
-                              !RegExp(r'^(\d{10}|\d{8})$').hasMatch(value)
-                          ? 'Ingrese un ID válido'
+                              !RegExp(r'^(\d{8})$').hasMatch(value)
+                          ? 'Ingrese un DNI válido'
                           : null;
                     }),
                   ),
