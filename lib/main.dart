@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practica_s12/etapa2.dart';
+import 'package:practica_s12/vistaPrincipal.dart';
 
 //Importaciones FIREBASE
 import 'package:cloud_firestore/cloud_firestore.dart';
