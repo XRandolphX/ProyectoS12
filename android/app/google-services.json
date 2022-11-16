@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "928723460372",
+    "firebase_url": "https://inserge-mobile-default-rtdb.firebaseio.com",
+    "project_id": "inserge-mobile",
+    "storage_bucket": "inserge-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928723460372:android:a4f42b7e60b00cbe6aa201",
+        "android_client_info": {
+          "package_name": "com.example.practica8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928723460372-86lh62ncrvndp5m3usn33lmvivimvdha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4MlI74pFfVonu9HXG3lBnWaHM9vUAf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928723460372-86lh62ncrvndp5m3usn33lmvivimvdha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928723460372:android:658170d77dd805736aa201",
+        "android_client_info": {
+          "package_name": "com.example.practica_s12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928723460372-86lh62ncrvndp5m3usn33lmvivimvdha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4MlI74pFfVonu9HXG3lBnWaHM9vUAf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928723460372-86lh62ncrvndp5m3usn33lmvivimvdha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928723460372:android:87b28a681694c6326aa201",
+        "android_client_info": {
+          "package_name": "com.inserge.projectinserge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928723460372-86lh62ncrvndp5m3usn33lmvivimvdha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4MlI74pFfVonu9HXG3lBnWaHM9vUAf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928723460372-86lh62ncrvndp5m3usn33lmvivimvdha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
